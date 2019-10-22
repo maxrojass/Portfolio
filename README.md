@@ -1,4 +1,4 @@
-# Spotify Project
+# Spotify Project 2019
 
 
 ## This personal project consist in coding everything that it is need in order to:
@@ -8,6 +8,6 @@
     
     
 ## it is possible to do more analysis which i will do in a near future about the relation of the features of the top tracks
-   in order to see which are the most common factors about the succesful tracks in the swedish market in order to understand
+   In order to see which are the most common factors about the succesful tracks in the swedish market in order to understand
    what users may like in songs.
 
